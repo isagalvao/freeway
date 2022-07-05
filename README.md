@@ -12,7 +12,7 @@
 
 ## Descrição
 
-- Utilizando as setas, para cima e  para baixo mova desvie dos carros e tente chegar até o final da rua.
+- Utilizando as setas, para cima e  para baixo mova-se e desvie dos carros tentando chegar até o final da rua.
 
 ## Jogando freeway
 

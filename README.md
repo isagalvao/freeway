@@ -1,7 +1,7 @@
 # freeway
 
 
-<img src="pingpong.gif" alt="exemplo imagem">
+<img src="freeway.gif" alt="exemplo imagem">
 
 
 ## Processo de criação do projeto:
